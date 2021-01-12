@@ -1,0 +1,8 @@
+CONTESTANT	Date	Stateside/Local Contacts	Foreign Contacts	Special Event Contacts	Penalties	Total		NOTES
+W9FFF	1/7/2021	11	5			26		
+K9MG	1/7/2021	13	5			28		
+N8YO	1/7/2021	14	5			29		
+N5SKT	1/7/2021	13	1			16		
+KI6NAZ	1/7/2021	17	5		2	30		(KI7PMQ) Penalty
+W5IPA	1/7/2021	6	3			15		
+								
